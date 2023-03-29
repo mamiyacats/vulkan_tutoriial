@@ -35,19 +35,8 @@
 *.app
 
 # intermediate files
-*.tlog
-*.aps
-*.dep
-*.idb
-*.ilk
-*.ncb
-*.obj
-*.pch
-*.pdb
-*.res
-*.suo
-*.user
-BuildLog.htm
+
 
 # folder
 packages
+Debug/
